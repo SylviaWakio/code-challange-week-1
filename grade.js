@@ -18,4 +18,3 @@ function getGrade(marks) {
 
 // Output the grade
 console.log(`student grade is ${getGrade(marks)}.`);
-
